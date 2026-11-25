@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "url": "https://github.com/QTmian999/naiwabbb/releases/latest",
-  "notes": "发新版时，把这里的 version 改成新号、url 改成蓝奏云分享链接。",
+  "notes": "· 软件改名「奶蛙帮」，换了新图标\n· 以后发新版会自动提醒你（只提示，不会偷偷下载安装）\n· 修好了导出日志弹窗被文件夹挡住、图标不显示的问题\n· 观看表页新增「下载模板」按钮",
   "updated": "2026-11-25"
 }
