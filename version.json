@@ -1,6 +1,6 @@
 {
-  "version": "0.5.1",
-  "url": "https://wwbgs.lanzouq.com/iIxUm4haon3c",
-  "notes": "· 新增「小工具」页：双击图标启动工具\n· 新增「查找文件」：全盘秒搜（需要装 Everything）、支持多选和排序、显示文件图标\n· 全局快捷键 Ctrl+Shift+F（被占用时自动换 Ctrl+Alt+F）\n· 关闭窗口进托盘，右键图标可恢复或退出\n\n下载密码：naiwa",
+  "version": "0.5.2",
+  "url": "https://wwbgs.lanzouq.com/iDHsC4harf7g",
+  "notes": "· 更新提示里的下载密码做成醒目的一块，大字号显示，右边可一键复制\n· 软件里残留的旧名字统一成「奶蛙帮」\n\n下载密码：naiwa",
   "updated": "2026-11-25"
 }
