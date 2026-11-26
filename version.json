@@ -1,6 +1,6 @@
 {
-  "version": "0.5.2",
-  "url": "https://wwbgs.lanzouq.com/iDHsC4harf7g",
-  "notes": "· 更新提示里的下载密码做成醒目的一块，大字号显示，右边可一键复制\n· 软件里残留的旧名字统一成「奶蛙帮」\n\n下载密码：naiwa",
-  "updated": "2026-11-25"
+  "version": "0.5.6",
+  "url": "https://wwbgs.lanzouq.com/iX3NF4hbypbi",
+  "notes": "· 桌面不再多出 data、导出 两个文件夹（挪到「文档\\奶蛙帮\\」）\n· 托盘里不再冒出 Everything 图标\n· 导出日志的弹窗加了「打开日志文件夹」按钮，且不会被主窗口挡住\n· 礼品日志能看到原始地址和每条的问题\n· 任务栏图标不再模糊\n· 体积减小到 16.4 MB\n\n下载密码：naiwa",
+  "updated": "2026-11-26"
 }
